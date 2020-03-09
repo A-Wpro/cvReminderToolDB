@@ -46,7 +46,7 @@ if (session_status() == PHP_SESSION_NONE) {
         date_default_timezone_set('UTC');
 
         
-$connect = mysqli_connect ("db648575668.db.1and1.com","dbo648575668","1403Mj!<3","db648575668");
+$connect = mysqli_connect ("db648575668.db.1and1.com","dbo648575668","","db648575668");
                 if($connect){
                      
                         
