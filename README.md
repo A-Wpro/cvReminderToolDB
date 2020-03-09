@@ -17,3 +17,5 @@ Everythings are in french, but you can us automatic google translate, automatic 
 btw, you can find some wierd things (about codes), i did not spent time to make somethings clean.
 
 This project is currenclty used by Nerytec Consulting : https://bdd.nerytec.com/
+
+ps: I did this github page very quickly, don't judge me
