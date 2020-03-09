@@ -12,7 +12,7 @@
     }
     $IDaddDATE = $_POST["IDMODDate"];
             
-            $connect = mysqli_connect ("db648575668.db.1and1.com","dbo648575668","1403Mj!<3","db648575668");
+            $connect = mysqli_connect ("db648575668.db.1and1.com","dbo648575668","","db648575668");
                 if($connect){
                      
                     $Rappel = $_POST["NewRappel"];
