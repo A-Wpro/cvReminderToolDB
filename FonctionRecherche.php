@@ -18,7 +18,7 @@
 
 $rechercheOpti=$_POST["RechercheOption"];
 $rechercheInput=$_POST["recherche"];
-$connect = mysqli_connect ("db648575668.db.1and1.com","dbo648575668","1403Mj!<3","db648575668");
+$connect = mysqli_connect ("db648575668.db.1and1.com","dbo648575668","","db648575668");
                 if($connect){
                      
                         
